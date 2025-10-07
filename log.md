@@ -90,8 +90,6 @@ allow user to modify a in ax+b, noise, number of points，並且使用streamlit
 
 ```
 hw1/
-├── hw1.py                    # 完整版 (sklearn等套件)
-├── simple_regression.py      # 簡化版 (純Python內建庫)
 ├── streamlit_app.py          # 🌟 互動式Web應用
 ├── requirements.txt          # 套件依賴清單
 ├── streamlit_guide.md        # 運行指南
